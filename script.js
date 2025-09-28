@@ -56,12 +56,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             </section>
         `,
-        spotted: `
+         spotted: `
             <div class="page-content" id="spotted-page">
                 <h1>🤫 Spotted (Confissões)</h1>
                 <p>As últimas confissões e flagras, direto do nosso Instagram!</p>
                 <hr class="divider">
-                <iframe src="//lightwidget.com/widgets/b2f206ebc7dc52f49af5cea5b3d2b8b4.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+
+                <div class="elfsight-app-8327e7cf-a0f7-444f-a14e-c404b6aa5271" data-elfsight-app-lazy></div>
+
             </div>
         `,
         eventos: `<div class="page-content" id="mural-eventos"><h1>🎉 Eventos da Faculdade</h1><p>Fique por dentro de todas as festas, eventos oficiais da PUC.</p><iframe src="//lightwidget.com/widgets/504b0646b1e45b8a9597359063e88f67.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe></div>`,
